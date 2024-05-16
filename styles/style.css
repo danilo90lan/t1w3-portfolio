@@ -63,3 +63,25 @@ footer {
 .info p {
     margin-bottom: 2px;
 }
+
+@media screen and (min-width: 600px){
+        header {
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+
+        }
+}
+.name {
+    margin-bottom: 0;
+}
+
+#navitem {
+    width: 50%;
+}
+
+.social-media {
+    width: 50%;
+    margin-left: auto;
+    margin-left: auto;
+}
