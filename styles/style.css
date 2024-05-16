@@ -6,6 +6,9 @@
 
 body {
     margin: 0;
+    height: 100dvb;
+    display:flex;
+    flex-direction: column;
 }
 
 header {
@@ -38,4 +41,24 @@ header {
 
 nav a {
     text-decoration: none;
+}
+
+footer {
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 10px;
+}
+
+.social-media {
+    display: flex;
+    justify-content: space-around;
+}
+
+.social-media a i {
+    font-size: 24px;
+    color: darkgrey;
+}
+
+.info p {
+    margin-bottom: 2px;
 }
