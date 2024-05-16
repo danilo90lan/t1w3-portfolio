@@ -71,17 +71,17 @@ footer {
             justify-content: space-between;
 
         }
-}
-.name {
-    margin-bottom: 0;
-}
-
-#navitem {
-    width: 50%;
-}
-
-.social-media {
-    width: 50%;
-    margin-left: auto;
-    margin-left: auto;
+        .name {
+            margin-bottom: 0;
+        }
+        
+        #navitem {
+            width: 50%;
+        }
+        
+        .social-media {
+            width: 50%;
+            margin-left: auto;
+            margin-left: auto;
+        }
 }
