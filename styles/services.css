@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 32px;
+}
+
+.services-image {
+    width: 400px;
+}
+
