@@ -1,6 +1,5 @@
 main {
     display: flex;
-    flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
     gap: 32px;
@@ -8,5 +7,6 @@ main {
 
 .services-image {
     width: 400px;
+    border-radius: 5%;
 }
 

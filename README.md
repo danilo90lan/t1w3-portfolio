@@ -17,3 +17,6 @@ The home pag displays an image and just somem random text for now.
 
 ### Services
 The service page show the services provided by tyhe company
+
+### About
+The about page utilises the grid display.
