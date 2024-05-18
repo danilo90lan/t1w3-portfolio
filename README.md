@@ -20,3 +20,6 @@ The service page show the services provided by tyhe company
 
 ### About
 The about page utilises the grid display.
+
+### Contact
+The contact page has a form to fill up details.
